@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav>
-        <img src="img/senai.png" alt="feira">
+        <img src="img/senai.png" alt="feira" class="logo">
 
         <ul>
             <li>
@@ -19,8 +19,8 @@
             </li>
         </ul>
     </nav>
-  <div class="f">
-    <main class="info">
+  <div class="text">
+    <main class="borda">
      
     <h2>Entre em Contato</h2>
 

@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>Cadastro de Participante</title>
-    <link rel="stylesheet" href="cadatro.css">
+    <link rel="stylesheet" href="cadestro.css">
 </head>
 <body>
     <nav>
-        <img src="" alt="">
+        <img src="img/senai.png" alt="" class="logo">
 
         <ul>
             <li>
@@ -19,7 +19,7 @@
     </nav>
 
 
- <main class="info">
+ <main class="borda">
     <h2>Cadastro de Participante</h2>
     <form action="cadastro.php" method="post">
         <label for="nome">Nome:</label><br>
