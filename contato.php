@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav>
-        <img src="" alt="">
+        <img src="img/senai.png" alt="feira">
 
         <ul>
             <li>

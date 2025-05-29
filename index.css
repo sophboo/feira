@@ -14,7 +14,7 @@
 }
 
 body{
-    background-color: rgb(58, 58, 58);
+    background: linear-gradient(); 
     overflow-y: hidden;
 }
 
@@ -52,5 +52,16 @@ nav ul li a:hover{
 
 .text{
     color: snow;
+    size: 20px;
+}
 
+.texto{
+    color: snow;
+    size: 20px;
+    display: flex;
+
+}
+
+.img{
+    width: 150px;
 }
